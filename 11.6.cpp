@@ -1,3 +1,6 @@
+/*11: Diseña un algoritmo que reciba un número entero positivo y calcule su factorial. El
+factorial de un número, representado como n!, es el producto de todos los números
+positivos menores o iguales a n. Por ejemplo: 5! = 5 × 4 × 3 × 2 × 1 = 120.*/
 #include <iostream>
 using namespace std;
 // Funcion que calcula el factorial de un numero entero positivo
